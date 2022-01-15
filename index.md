@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hi, I'm Rahul Telkunte
 
 You can use the [editor on GitHub](https://github.com/rahultelkunte/rahul-tech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
